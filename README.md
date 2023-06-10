@@ -25,5 +25,4 @@ ___
     ### 2.1. Esse crescimento é maior do que em outros setores?
     ### 2.2. Considerada a inflação, este cenário se mantém?
 
-___# labor-in-brazil-and-tech
-# labor-in-brazil-and-tech
+___
