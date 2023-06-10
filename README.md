@@ -1,5 +1,5 @@
 * # Bem vindo ao **Levantamento do Mercado de Trabalho no Brasil com base nos dados do IBGE (Sidra) de 2012 a 2023¹.**
-
+    * ## Link no kaggle [aqui](https://www.kaggle.com/calilidossantossilva/labor-in-brazil-2012-2023/edit)
     * ## O **objetivo** é investigar a maior presença de setores tencológicos no mercado de trabalho brasileiro identificando se setores predominantemente tecnológicos² tiveram aumento na quantidade e salário dos trabalhadores durante o período do levantamento.
     
     * ## Para isso **foram levantados no Instituto Brasileiro de Geografia e Estatística (IBGE), dados das pessoas** (tabela 5434) **e rendimentos** (tabela 5442) por grupamento de atividades definidos pelo instituto, e o **Índice Nacional de Preços ao Consumidor (INPC,** tabela 1736 **).**
