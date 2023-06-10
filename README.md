@@ -26,3 +26,5 @@ ___
     ### 2.2. Considerada a inflação, este cenário se mantém?
 
 ___
+
+- # Análise e Conclusões no diretório **_google_certificate_challenge_**
