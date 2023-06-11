@@ -1,6 +1,6 @@
 * # Welcome to the **Labor Market Survey in Brazil based on IBGE (Sidra) data.**
 
-    * ## Versão em português [aqui](README-pt.md)
+    * ## Versão em português [aqui](README-pt-br.md)
     * ## Link in kaggle [here](https://www.kaggle.com/calilidossantossilva/labor-in-brazil-2012-2023/edit)
 
     * ## The **aim** is to investigate the greater presence of technology sectors in the Brazilian labor market, identifying whether these sectors¹ had an increase in the number and salary of their workers during the sample period².
