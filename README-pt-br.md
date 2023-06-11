@@ -27,4 +27,4 @@ ___
 
 ___
 
-- # Preparação, Análise e Conclusões no diretório **_data_and_notebooks_**
+- # Preparação, Análise e Conclusões no diretório **_data_and_notebooks_**. (trabalho-no-brasil-2012-2023.ipynb had the english version.)
